@@ -32,3 +32,7 @@ __Melhoria 1__, _Melhoria 2_
 #### Imagem local
 
 ![Logo loja](img/logo%20litoralbrava.jpg)
+
+#### Imagem externa
+
+![logo do PHP](https://pt.m.wikiversity.org/wiki/Ficheiro:PHP-logo.svg)
